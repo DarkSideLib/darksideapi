@@ -1,0 +1,8 @@
+can_fire()
+Returns true, if weapon can fire (true/false)
+
+get_inaccuracy()
+Returns weapon inaccuracy
+
+get_spread()
+Returns weapon spread
