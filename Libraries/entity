@@ -1,0 +1,18 @@
+get_local_player()
+Return local player entity
+
+
+get_entity_by_index( int index )
+Return entity by index
+
+
+get_weapon_by_player( player )
+Return weapon by player
+
+
+entity_to_player( entity )
+Return player from entity
+
+
+entity_to_weapon( entity )
+Return weapon from entity
