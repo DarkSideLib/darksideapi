@@ -1,0 +1,14 @@
+utils
+find_signature( string module_name, string signature )
+Return a pointer
+
+local clantag_change_fn = utils.find_signature("engine.dll", "53 56 57 8B DA 8B F9 FF 15")
+
+
+
+
+
+create_interface( string module_name, string interface_name )
+Return a pointer
+
+local entity_list = utils.create_interface("client.dll", "VClientEntityList003")
