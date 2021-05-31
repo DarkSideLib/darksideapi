@@ -1,0 +1,5 @@
+get_name()
+get_texture_group_name()
+alpha_modulate( float alpha )
+color_modulate( float r, float g, float b )
+
