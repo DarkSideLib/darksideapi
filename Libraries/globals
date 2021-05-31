@@ -1,0 +1,26 @@
+get_ping()
+Return your ping
+
+get_server_address()
+Return the address of the server where you are located
+
+get_username()
+Return your forum username
+
+get_realtime()
+Return time since start of the game
+
+get_curtime()
+Return current time
+
+get_frametime()
+Return delta time between frames
+
+get_tickcount()
+Return client tick count
+
+get_intervalpertick()
+Return server tick interval
+
+get_maxclients()
+Max player count
