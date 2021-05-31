@@ -1,0 +1,27 @@
+is_player()
+
+is_weapon()
+
+set_abs_angles()
+
+set_abs_origin()
+
+get_class_name()
+
+get_class_id()
+
+get_prop_int( string table, string prop )
+
+get_prop_float( string table, string prop )
+
+get_prop_bool( string table, string prop )
+
+get_prop_string( string table, string prop )
+
+set_prop_int( string table, string prop, int value )
+
+set_prop_float( string table, string prop, float value )
+
+set_prop_bool( string table, string prop, bool value )
+
+set_prop_string( string table, string prop, string value )
