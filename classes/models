@@ -1,0 +1,18 @@
+model
+get_entity()
+Return entity
+
+get_name()
+Return model name
+
+force_material( IMaterial material )
+Set your material for current model
+
+set_blend( float alpha(0-255) )
+Set the alpha
+
+draw_extra_pass()
+Drawing the model with your settings
+
+color_modulate( color, IMaterial material )
+Sets the color for the selected material
