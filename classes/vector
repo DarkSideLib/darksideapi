@@ -1,0 +1,35 @@
+x
+number
+
+y
+number
+
+z
+number
+
+length()
+Returns the length of the vector
+
+length_sqr()
+Returns the length of the vector squared
+
+length_2d()
+Returns the length of a vector in two-dimensional space
+
+length_2d_sqr()
+Returns the length of a vector in two-dimensional space squared
+
+is_zero()
+is_valid()
+zero()
+dist_to()
+Returns the distance to..
+
+dist_to_sqr()
+Returns the distance to.. squared
+
+cross_product()
+Returns the vector product
+
+normalize()
+Returns a normalized vector
