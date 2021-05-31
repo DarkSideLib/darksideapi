@@ -1,0 +1,12 @@
+get( string host, string link )
+Returns webpage body at given url
+
+post( string host, string link, string arrayParams, string data )
+Sends a request to a page with your data
+
+Example
+
+
+http.get("https://test.com/", "/test")
+
+http.post("https://test.com/", "/test", "text", "text/plain")
